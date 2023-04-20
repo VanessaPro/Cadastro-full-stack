@@ -1,6 +1,6 @@
 import GlobalStyle from "./styles/global";
 import styled from "styled-components";
-import Form from "./components/Form.js";
+import Form from "./Form.js"
 import Grid from "./components/Grid";
 import { useEffect, useState } from "react";
 import { toast, ToastContainer } from "react-toastify";
