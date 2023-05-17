@@ -6,7 +6,7 @@ import { toast } from "react-toastify";
 
 const Table = styled.table`
   width: 100%;
-  background-color:#40E0D0;
+  background-color:#F0FFFF;
   padding: 20px;
   box-shadow: 0px 0px 5px #ccc;
   border-radius: 5px;
